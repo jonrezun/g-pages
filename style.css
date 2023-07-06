@@ -26,6 +26,9 @@ main {
     text-align: center;
     flex-grow: 1;
 }
+.text {
+    margin-bottom: 48px;
+}
 .image {
     text-align: center;
     max-width: 400px;
