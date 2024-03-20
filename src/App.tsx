@@ -15,7 +15,7 @@ const App = () => {
                     <p>10 лет помогаю eccome решать бизнес-задачи и достигать новых высот. Маркетинг и технологии в симбиозе.</p>
                 </div>
                 <ul className="hero__brands">
-                    {/*<li className="hero_brand">brand</li>*/}
+                    <li className="hero_brand">brand</li>
                 </ul>
             </div>
         </section>
